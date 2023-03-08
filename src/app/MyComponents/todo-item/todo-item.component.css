@@ -1,0 +1,10 @@
+
+.strike{
+    text-decoration: line-through;
+}
+h5 { 
+    color: var(--green);
+}
+p {
+    color: var(--green);
+}

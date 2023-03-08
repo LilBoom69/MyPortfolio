@@ -1,0 +1,10 @@
+
+:host {
+    display: block;
+    min-height: 100vh;
+    background-color: rgb(0, 52, 65);
+}
+
+.navbar-custom {
+    background-color: rgb(45, 102, 117);
+}
